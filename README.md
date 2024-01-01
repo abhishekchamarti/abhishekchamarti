@@ -25,7 +25,7 @@ I welcome collaboration, discussions, and insights from the community. If you ha
 # Connect with me on:
 
 LinkedIn : https://www.linkedin.com/in/venkatsai-dataeng/
-Twitter : 
+Twitter : https://twitter.com/VenkatSai9204
 Email :venkattech91@gmail.com
 Happy coding!
 Venkat Sai Abhishek
