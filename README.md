@@ -1,16 +1,15 @@
-# Venkat Sai Abhishek's Learning Journey
 # About Me
 Hello there! I'm Venkat Sai Abhishek, a passionate Data Engineer on a mission to constantly enhance my skills and explore new horizons in the realms of data engineering, cybersecurity, and web development.
 
-What I Do
+#What I Do
 Professionally: I currently work as a Data Engineer, where I leverage my skills to design and implement robust data solutions.
 
-Interests: My curiosity extends beyond data engineering. I'm keenly interested in cybersecurity, fascinated by the ever-evolving landscape of threats and countermeasures. Additionally, I'm venturing into the world of web development to broaden my skill set.
+#Interests: My curiosity extends beyond data engineering. I'm keenly interested in cybersecurity, fascinated by the ever-evolving landscape of threats and countermeasures. Additionally, I'm venturing into the world of web development to broaden my skill set.
 
-Why This Repository?
+#Why This Repository?
 This GitHub repository serves as a documentation hub for my learning journey. Here, you'll find:
 
-Projects: I'll be sharing the projects I'm working on, demonstrating the practical application of my skills.
+#Projects: I'll be sharing the projects I'm working on, demonstrating the practical application of my skills.
 
 Learning Resources: I'll curate a list of valuable resources that I come across during my learning process. Feel free to explore them and join me on this educational adventure.
 
