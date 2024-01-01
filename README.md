@@ -1,7 +1,7 @@
 # About Me
 Hello there! I'm Venkat Sai Abhishek, a passionate Data Engineer on a mission to constantly enhance my skills and explore new horizons in the realms of data engineering, cybersecurity, and web development.
 
-# What I DoProfessionally: 
+# What I Do Professionally: 
 I currently work as a Data Engineer, where I leverage my skills to design and implement robust data solutions.
 
 # Interests:
